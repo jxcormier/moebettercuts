@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-05-07T20:40:43+00:00</lastmod>
+		<lastmod>2026-06-11T19:58:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/10/16906579_1909475969276355_4696811269506727936_n-2.jpg</image:loc>
 		</image:image>
@@ -20,15 +20,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/discover-us/</loc>
-		<lastmod>2023-04-13T18:40:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/lookbook/</loc>
-		<lastmod>2023-04-13T03:02:43+00:00</lastmod>
+		<loc>/cuts/</loc>
+		<lastmod>2026-06-11T20:06:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2019/10/75430300_2449502565087359_1227453198379158482_n.jpg</image:loc>
 		</image:image>
@@ -199,12 +192,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/frequently-asked-questions/</loc>
-		<lastmod>2019-07-14T21:11:29+00:00</lastmod>
+		<loc>/about-us/</loc>
+		<lastmod>2026-06-11T20:04:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>/terms-conditions/</loc>
-		<lastmod>2019-07-14T21:07:56+00:00</lastmod>
+		<loc>/frequently-asked-questions/</loc>
+		<lastmod>2019-07-14T21:11:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/contact/</loc>

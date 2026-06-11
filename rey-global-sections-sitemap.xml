@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>/?rey-global-sections=header</loc>
+		<lastmod>2026-06-11T20:08:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/?rey-global-sections=footer</loc>
 		<lastmod>2026-06-11T18:53:14+00:00</lastmod>
 		<image:image>
@@ -57,64 +73,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/10/be75a06cf9714457b43144afe3f660-deenodabarber-logo-a25f2262d996463987e183e34e1996-booksy.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/?rey-global-sections=header</loc>
-		<lastmod>2023-04-13T20:34:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/34053693.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/original-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/62183F68-1ABE-4900-9BF5-52A84EDAE679.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/138FBB31-1ADD-4D86-B8CB-8A0F6CE51CA6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/F7BF84C9-69F1-4BD5-BBF2-AC00BFE20099.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/download.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/6F59FF82-1311-4F02-9347-C90954741EC8.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2019/10/Mo-Better-Cutsw-edited.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/34053693.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/01/original-1.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/62183F68-1ABE-4900-9BF5-52A84EDAE679.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/10/138FBB31-1ADD-4D86-B8CB-8A0F6CE51CA6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/F7BF84C9-69F1-4BD5-BBF2-AC00BFE20099.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/download.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/09/6F59FF82-1311-4F02-9347-C90954741EC8.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
